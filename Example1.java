@@ -1,4 +1,5 @@
-﻿import java.util.Random;
+﻿
+import java.util.Random;
 
 /**
  * 
@@ -7,6 +8,8 @@
  */
 public class Example1 {
 
+
+	private static Example1 arrayOperation;
 
 	public static void main(String[] args) {
 		int[] data=new int[10];
